@@ -1,4 +1,3 @@
 #ARTEM RYZHKO
-## 2 2 2 2
-ыпуп
-ergge
+## 3 3 3 3 
+
